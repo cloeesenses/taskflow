@@ -5,9 +5,13 @@
 __pycache__/
 *.pyc
 
+# Base de datos local
+tareas.db
+
 # Configuración local de VS Code
 .vscode/
 
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+
